@@ -12,9 +12,9 @@ http://sourceforge.net/projects/dejavu/files/dejavu/2.37/dejavu-fonts-ttf-2.37.z
 
 思源宋体（极细+细体+常规+中等）：https://github.com/adobe-fonts/source-han-serif/raw/release/OTF/SourceHanSerifSC_EL-M.zip  
 
-思源宋体：（半粗体＋粗体＋重粗体）：https://github.com/adobe-fonts/source-han-serif/raw/release/OTF/SourceHanSerifSC_SB-H.zip
+思源宋体（半粗体＋粗体＋重粗体）：https://github.com/adobe-fonts/source-han-serif/raw/release/OTF/SourceHanSerifSC_SB-H.zip
 
-> 对应Google的字体为 [Noto Sans CJK SC](https://noto-website-2.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip) 和 [Noto Serif CJK SC](https://noto-website-2.storage.googleapis.com/pkgs/NotoSerifCJKsc-hinted.zip)
+> 对应[Google Noto](https://www.google.com/get/noto/)字体为 [Noto Sans CJK SC](https://noto-website-2.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip) 和 [Noto Serif CJK SC](https://noto-website-2.storage.googleapis.com/pkgs/NotoSerifCJKsc-hinted.zip)。
 
 ## Source Code Pro
 
