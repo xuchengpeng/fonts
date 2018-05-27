@@ -1,4 +1,4 @@
-# 字体
+﻿# 字体
 
 ## [DejaVu Sans Mono](https://dejavu-fonts.github.io/)
 
@@ -10,7 +10,7 @@ http://sourceforge.net/projects/dejavu/files/dejavu/2.37/dejavu-fonts-ttf-2.37.z
 
 思源黑体（半宽ASCII版本＋粗体）：https://github.com/adobe-fonts/source-han-sans/raw/release/OTF/SourceHanSansHWSC.zip
 
-思源宋体（极细+细体+常规+中等）：https://github.com/adobe-fonts/source-han-serif/raw/release/OTF/SourceHanSerifSC_EL-M.zip  
+思源宋体（极细+细体+常规+中等）：https://github.com/adobe-fonts/source-han-serif/raw/release/OTF/SourceHanSerifSC_EL-M.zip
 
 思源宋体（半粗体＋粗体＋重粗体）：https://github.com/adobe-fonts/source-han-serif/raw/release/OTF/SourceHanSerifSC_SB-H.zip
 
