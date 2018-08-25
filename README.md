@@ -1,5 +1,13 @@
 ﻿# 字体
 
+## [Fira](https://github.com/mozilla/Fira)
+
+http://mozilla.github.io/Fira/
+
+## [Hack](https://github.com/source-foundry/Hack)
+
+https://sourcefoundry.org/hack/
+
 ## [DejaVu Sans Mono](https://dejavu-fonts.github.io/)
 
 http://sourceforge.net/projects/dejavu/files/dejavu/2.37/dejavu-fonts-ttf-2.37.zip
